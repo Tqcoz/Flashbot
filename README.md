@@ -1,2 +1,2 @@
 # Flashbot
-YouTube livechat moderation bot
+see http://flashbot.de
