@@ -1,0 +1,44 @@
+-# Step 1 - Register on IFTTT
+-1. Go to https://ifttt.com/ and create an account (if you don't already have one).
+-
+-
+-# Step 2 - Make a Discord Webhook
+-1. Find the Discord channel in which you would like to send Tweets.
+-
+-2. In the settings for that channel, find the Webhooks option and create a new webhook. Note: Do NOT give this URL out to the public. Anyone or service can post messages to this channel, without even needing to be in the server. Keep it safe!
+-![WebhookDiscord](https://i.imgur.com/R8eaGH7.png)
+-
+-3. You can name the webhook whatever you want, and give it any image; for this tutorial we override them later anyway. Keep track of the URL; we'll need it later.
+-
+-# Step 3 - Make an IF recipe
+-1. "My recipes"
+-2. "Create a recipe"
+-3. Press that underlined huge "this".
+-4. (Step 1/7) Search for "YouTube" in the "Search channels" box. Click on it. If it needs you to connect YouTube channel (only first time), just click it, log into Google, and authorize it.
+-5. (Step 2/7) "New public video uploaded by you". Please note that it only works on **you**, not someone you like (For example, **Keemstar**).
+-6. (Step 3/7) Just click "Create trigger".
+-7. Press that underlined huge "that".
+-8. (Step 4/7) Search for "Webhook" in the "Search channels" box.
+-9. (Step 5/7) You only have 1 choice.
+-10. (Step 6/7) Here's the important part.
+-
+-# Step 4 - Setup the webhook
+-[![Screen Shot 2016-10-23 at 8.00.52 PM.png](https://s14.postimg.org/b6b7gwdpt/Screen_Shot_2016_10_23_at_8_00_52_PM.png)](https://postimg.org/image/fffxj2gz1/)
+-
+-1. Select "Post" in method, and "application/json" in content type.
+-2. Paste your webhook URL in the URL box.
+-3. Paste the following stuff. Edit it if you want.
+-```json
+-{
+-  "username":"IFTTT YouTube Test",
+-  "avatar_url":"https://blog.eu.playstation.com/files/avatars/avatar_4364447.jpg",
+-  "content":"**{{AuthorName}}** uploaded **{{Title}}** at {{CreatedAt}}: {{Url}}"
+-}
+-```
+-# Step 5 - Profit
+-
+-Now what you have to do is just click "Create Action". It will start to run immediately. You can shut it down using the power button. If there's any error, it'll appear in the log. "Check now" button updates the log in case it is not automatically updated (I think).
+-
+-~~I did not test it.~~ As "requested" by [@eslachance](https://github.com/eslachance), I have tested it and it should work. If you have any error, do not hesitate to contact austinhuang#1076 on Discord.
+-![Screen Shot 2016-10-24 at 2.59.07 PM.png](https://s16.postimg.org/wgsx0o5gl/Screen_Shot_2016_10_24_at_2_59_07_PM.png)
+-
