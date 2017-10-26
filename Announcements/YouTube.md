@@ -11,7 +11,7 @@
 3. Press that underlined huge "this".
 4. (Step 1/7) Search for "YouTube" in the "Search channels" box. Click on it. If it needs you to connect YouTube channel (only first time), just click it, log into Google, and authorize it.
 5. (Step 2/7) "New public video uploaded by you". Please note that it only works on **you**,
-              for other channels select `New public video from subscriptions` and select the channel.
+              for other channels select `New video from subscriptions` and select the channel.
 6. (Step 3/7) Just click "Create trigger".
 8. (Step 4/7) Search for "Webhooks" in the "Search channels" box.
 9. (Step 5/7) You only have 1 choice.
