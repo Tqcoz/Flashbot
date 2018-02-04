@@ -24,7 +24,7 @@
 {
   "username":"YouTube",
   "avatar_url":"https://i.imgur.com/UHWPdp0.png",
-  "content":"__{{AuthorName}}__ uploaded an new YouTube video:\n**{{Title}}**: {{Url}}"
+  "content":"__{{AuthorName}}__ uploaded a new YouTube video:\n**{{Title}}**: {{Url}}"
 }
 ```
 # Step 5 - Finish it!
