@@ -5,5 +5,9 @@
 <br/>
 -- Currently Closed Source --
 <br/>
-Invite: http://flashbot.de
+<a href="http://flashbot.de"><img src="https://i.imgur.com/Xb9odYL.png">
+</a>
+<br/>
+<a href="https://discord.gg/Np48ZJQ"><img src="https://discordapp.com/api/guilds/357492346490978304/embed.png?style=banner2">
+</a>
 <br/>
