@@ -12,7 +12,7 @@
 </a>
 <br/>
 <center>
-<a href="https://discordbots.org/bot/358566523796717570">
+<a href="https://discordbots.org/bot/358566523796717570" style="align:center;">
   <img src="https://discordbots.org/api/widget/358566523796717570.svg" alt="Discord Bots" />
 </a>
 </center>
