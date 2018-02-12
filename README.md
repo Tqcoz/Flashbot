@@ -14,8 +14,6 @@
 <br/>
 <a href="http://flashbot.de"><img src="https://i.imgur.com/Xb9odYL.png">
 </a>
-<br/>
-<br/>
 <a href="https://discord.gg/Np48ZJQ"><img src="https://discordapp.com/api/guilds/357492346490978304/embed.png?style=banner2">
 </a>
 <br/>
