@@ -1,5 +1,5 @@
 # Flashbot
-- Unlock your channels whith a simple reaction on welcome channel! (Optionally with you own reaction) | `+c`
+- Unlock your channels whith a simple reaction! (Optionally with you own reaction, multiple switchings possible) | `+c`
 - Set a checkmark, to show you accept the rules and get a verified role. - or unreact and get kicked or lose the role | `+v`
 - Set awesome Twitter & YouTube announcements. | `+a`
 - Autokicks - get kicked on join | `+kick ID` and `+unkick ID`
