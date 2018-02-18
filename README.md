@@ -2,7 +2,8 @@
 - Unlock your channels whith a simple reaction! (Optionally with you own reaction, multiple switchings possible) | `+c`
 - Set a checkmark, to show you accept the rules and get a verified role. - or unreact and get kicked or lose the role | `+v`
 - Set awesome Twitter & YouTube announcements. | `+a`
-- Autokicks - get kicked on join | `+kick ID` and `+unkick ID`
+- Autokicks - auto kick on join | `+kick ID` and `+unkick ID`
+- Hackbans - get ban on join | `+ban ID` and `+unban ID`
 - Password protected channels! - Protect Roles with you password! `+p`
 - More features comming soon!
 <br/>
