@@ -9,7 +9,7 @@
 - More features comming soon!
 <br/>
 <p align="center">
-<a href="http://flashbot.de"><img src="https://i.imgur.com/Xb9odYL.png">
+<a href="http://flashbot.de/invite/"><img src="https://i.imgur.com/Xb9odYL.png">
 </a>
 <a href="https://discord.gg/Np48ZJQ"><img src="https://discordapp.com/api/guilds/357492346490978304/embed.png?style=banner2">
 </a>
