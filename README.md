@@ -1,11 +1,11 @@
 # Flashbot
-- Unlock your channels whith a simple reaction! (Optionally with you own reaction, multiple switchings possible) | `+c`
-- Set a checkmark, to show you accept the rules and get a verified role. - or unreact and get kicked or lose the role | `+v`
-- Let everyone create private Voice Rooms - without a command | `+r`
-- Set awesome Twitter & YouTube announcements. | `+a`
+- Unlock channels via reaction! (Optionally with own reactions, multiple switchings possible) | `+c`
+- Accept rules via reaction and get a role. On unreact get kicked or lose the role. NEW: with a custom Emoji | `+v`
+- Let everyone create private Voice Rooms - without a command | Setup: `+r`
+- Password protect roles | `+p`
+- Awesome Twitter & YouTube announcements | `+a`
 - Autokicks - auto kick on join | `+kick ID` and `+unkick ID`
-- Hackbans - get ban on join | `+ban ID` and `+unban ID`
-- Password protected channels! - Protect Roles with you password! `+p`
+- Hackbans - auto ban on join | `+ban ID` and `+unban ID`
 - More features comming soon!
 <br/>
 <p align="center">
