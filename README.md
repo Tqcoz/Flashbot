@@ -2,7 +2,7 @@
 - Unlock channels via reaction! (Optionally with own reactions, multiple switchings possible) | `+c`
 - Accept rules via reaction and get a role. On unreact get kicked or lose the role. NEW: with a custom Emoji | `+v`
 - Let everyone create private Voice Rooms - without a command | Setup: `+r`
-- Create cool Giveaways | Setup: `+g`
+- Create cool Giveaways (optional winner role) | Setup: `+g`
 - Password protect roles | `+p`
 - Awesome Twitter & YouTube announcements | `+a`
 - Autokicks - auto kick on join | `+kick ID` and `+unkick ID`
