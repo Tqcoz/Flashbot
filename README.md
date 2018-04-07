@@ -16,7 +16,7 @@
 </a>
 <br/>
 
-<a href="https://discordbots.org/bot/358566523796717570">
-  <img src="https://discordbots.org/api/widget/358566523796717570.svg" alt="Discord Bots" />
+<a href="https://discordbots.org/bot/423395274942054401">
+  <img src="https://botsfordiscord.com/api/v1/bots/423395274942054401/embed" alt="Discord Bots" />
 </a>
 </p>
