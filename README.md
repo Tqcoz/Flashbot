@@ -5,6 +5,7 @@
 - Create cool Giveaways (optional winner role) | Setup: `+g`
 - Password protect roles | `+p`
 - Awesome Twitter & YouTube announcements | `+a`
+- Autoban known Tos Violators / Raiders | `+gban [on/off/info]`
 - Autokicks - auto kick on join | `+kick ID` and `+unkick ID`
 - Hackbans - auto ban on join | `+ban ID` and `+unban ID`
 - More features comming soon!
